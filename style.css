@@ -59,3 +59,12 @@ div.jumbotron {
 .jumbotron h1{
   font-size: 60px;
 }
+
+.jumbotron p{
+  font-size: 20px;
+  padding-top: 0;
+  padding-right: 40px;
+  padding-bottom: 0;
+  padding-left: 40px;
+  line-height: 40px;
+}
